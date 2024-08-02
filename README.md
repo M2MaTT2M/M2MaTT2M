@@ -1,10 +1,8 @@
 ## Olá! Sou Matheus Alécio
 
-<!--
--- Estudante do Alura
--- Estou me desenvolvendo em linguagens de programação como JavaScript
--- Fiz esse espaço com o objetivo de organizar e compartilhar os projetos que desenvolvo
--->
+-Estudante do Alura
+-Estou me desenvolvendo em linguagens de programação como JavaScript
+-Fiz esse espaço com o objetivo de organizar e compartilhar os projetos que desenvolvo
 
 ## Meus Contatos 📧
 
