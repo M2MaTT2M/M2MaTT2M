@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Sou Matheus Alécio
 
 <!--
-**M2MaTT2M/M2MaTT2M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-- Estudante do Alura
+-- Estou me desenvolvendo em linguagens de programação como JavaScript
+-- Fiz esse espaço com o objetivo de organizar e compartilhar os projetos que desenvolvo
 -->
+
+## Meus Contatos 📧
+
+matheushenriquealecio@gmail.com
+
+![](https://yt3.googleusercontent.com/bMPvd_5thJ2pUVHGRdvdjr_NPkzrFDeIT-SE9Lko-FvwrUufWbLKtYrqdH4JArXPEcvBez2-aw=s88-c-k-c0x00ffffff-no-rj)
